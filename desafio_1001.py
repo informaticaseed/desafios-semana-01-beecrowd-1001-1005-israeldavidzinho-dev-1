@@ -13,14 +13,9 @@ você receberá "Presentation Error".
 
 # Escreva sua solução abaixo
 
-# Lê a primeira linha e converte para inteiro
 A = int(input())
-
-# Lê a segunda linha e converte para inteiro
 B = int(input())
 
-# Realiza a soma
 X = A + B
 
-# Exibe o resultado com a formatação exigida (X, espaço, =, espaço, valor)
-print(f"X = {X}")
+print("X =", X)
