@@ -12,14 +12,14 @@ você receberá "Presentation Error".
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
 
 # Escreva sua solução abaixo
-# Leitura dos valores de entrada
-# O input() lê como string, então o int() converte para inteiro
+# Lê a primeira linha e converte para inteiro
 A = int(input())
+
+# Lê a segunda linha e converte para inteiro
 B = int(input())
 
-# Processamento da soma
+# Realiza a soma
 X = A + B
 
-# Saída formatada exatamente como o Beecrowd exige
-# O f-string já lida com o fim de linha automaticamente
+# Exibe o resultado com a formatação exigida (X, espaço, =, espaço, valor)
 print(f"X = {X}")
