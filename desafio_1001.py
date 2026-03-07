@@ -12,6 +12,7 @@ você receberá "Presentation Error".
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
 
 # Escreva sua solução abaixo
+
 # Lê a primeira linha e converte para inteiro
 A = int(input())
 
