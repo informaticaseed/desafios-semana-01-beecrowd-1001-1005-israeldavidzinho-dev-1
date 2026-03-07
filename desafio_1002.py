@@ -19,10 +19,10 @@ exemplo abaixo, com 4 casas após o ponto decimal. Utilize variáveis de dupla p
 
 # Escreva sua solução abaixo
 
-Pi = 3.14159
+pi = 3.14159
 
 raio = float(input())
 
-area = Pi * (raio ** 2)
+area = pi * (raio ** 2)
 
 print(f"A={area:.4f}")
